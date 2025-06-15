@@ -4,6 +4,6 @@ Um bot simples e útil para servidores do Discord! Desenvolvido com Python e a b
 
 - 🧮 Realizar cálculos básicos (soma, subtração, multiplicação e divisão)
 - 🗣️ Repetir o que o usuário disser
-- 👋 Cumprimentar com um "oi"
+- 👋 Cumprimentar com uma saudação
 - 🎉 Avisar quando novos membros entram no servidor
 
